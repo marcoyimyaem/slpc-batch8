@@ -1,5 +1,7 @@
 package chapter2;
 
+import java.util.Random;
+
 public class JavaOps {
     public static void main(String[] args) {
         int y = 4;
@@ -20,5 +22,21 @@ public class JavaOps {
         System.out.println((20>>3)+5);
         //0001 0100
         //1000 0010
+        int q = 4;
+        long p = 10;
+        // q = q+p;
+        System.out.println(q+=p); // compound assgnment ops : q = (type of q) q+p 
+        long t = 4;
+        long h = (t=5);
+        //(5)
+        System.err.println(t +"*****"+ h);
+        Random r = new Random();
+        Random z = new Random();
+        System.out.println(r instanceof Random);
+        JavaOps jo = new JavaOps();
+        // System.out.println(jo instanceof Random);
+        
+
+        
     }
 }
