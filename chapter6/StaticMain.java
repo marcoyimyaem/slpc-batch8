@@ -1,5 +1,6 @@
 package chapter6;
-import chapter5.StaticImport;
+import chapter5.*;
+import chapter5.dgft.fdtyf.*;
 import static chapter5.StaticImport.*;
 public class StaticMain {
     public static void main(String[] args) {
