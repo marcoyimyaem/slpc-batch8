@@ -1,6 +1,7 @@
 package chapter1;
 
 public class Primitives {
+
     static int number;
     static Main m;
     public static void main(String[] args) {

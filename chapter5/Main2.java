@@ -7,7 +7,7 @@ public class Main2 extends MethodL{
         
         System.out.println(loopProtected());
         System.out.println(msg);
-        
+        sout
     
     }
 }
