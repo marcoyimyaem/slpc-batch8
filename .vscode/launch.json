@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AbstractL",
+            "request": "launch",
+            "mainClass": "chapter6.classDesign.AbstractL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Panda",
+            "request": "launch",
+            "mainClass": "chapter6.classDesign.Panda",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Wolf",
+            "request": "launch",
+            "mainClass": "chapter6.classDesign.Wolf",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AnotherClass",
+            "request": "launch",
+            "mainClass": "chapter1.AnotherClass",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "chapter1.Main",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Primitives",
+            "request": "launch",
+            "mainClass": "chapter1.Primitives",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "RefVsObj",
+            "request": "launch",
+            "mainClass": "chapter1.RefVsObj",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "ControlFlowStatement",
+            "request": "launch",
+            "mainClass": "chapter2.ControlFlowStatement",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "JavaOps",
+            "request": "launch",
+            "mainClass": "chapter2.JavaOps",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "LoopsL",
+            "request": "launch",
+            "mainClass": "chapter2.LoopsL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListL",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayListL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeL",
+            "request": "launch",
+            "mainClass": "chapter3.DateTimeL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "StringL",
+            "request": "launch",
+            "mainClass": "chapter3.StringL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "chapter3.WrapperClass",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "DefaultMethodS",
+            "request": "launch",
+            "mainClass": "chapter4.DefaultMethodS",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "MethodL",
+            "request": "launch",
+            "mainClass": "chapter4.MethodL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Character",
+            "request": "launch",
+            "mainClass": "chapter5.Character",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorL",
+            "request": "launch",
+            "mainClass": "chapter5.ConstructorL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "EncapL",
+            "request": "launch",
+            "mainClass": "chapter5.EncapL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "LamdasL",
+            "request": "launch",
+            "mainClass": "chapter5.LamdasL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "chapter5.Main2",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Method32",
+            "request": "launch",
+            "mainClass": "chapter5.Method32",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "PassByVal",
+            "request": "launch",
+            "mainClass": "chapter5.PassByVal",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethodsAndVar",
+            "request": "launch",
+            "mainClass": "chapter5.StaticMethodsAndVar",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "VarAgrsL",
+            "request": "launch",
+            "mainClass": "chapter5.VarAgrsL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "StaticMain",
+            "request": "launch",
+            "mainClass": "chapter6.StaticMain",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
+            "name": "Lion",
+            "request": "launch",
+            "mainClass": "chapter6.classDesign.Lion",
+            "projectName": "slpc-batch8_29cfc3fd"
+        }
+    ]
+}
