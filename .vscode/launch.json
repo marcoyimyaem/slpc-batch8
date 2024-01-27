@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceL",
+            "request": "launch",
+            "mainClass": "chapter6.classDesign.InterfaceL",
+            "projectName": "slpc-batch8_29cfc3fd"
+        },
+        {
+            "type": "java",
             "name": "AbstractL",
             "request": "launch",
             "mainClass": "chapter6.classDesign.AbstractL",

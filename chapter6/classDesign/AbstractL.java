@@ -20,9 +20,7 @@ class Dog extends Mammal{
     public void setClassification(String className){
         classification = className;
     }
-class Poodle extends Dog{
-    
-}
+
 
     void msg(){
         System.out.println(getName()+" "+getClassification());
@@ -50,4 +48,8 @@ abstract class Mammal extends Animals{
     protected String classification;
     public abstract String getClassification();
     public abstract void setClassification(String className);
+}
+
+class Poodle extends Dog{
+    
 }
